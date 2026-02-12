@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Retro-Coin-Phone
-=======
-# Retro-Coin-Booth# Retro-Coin-Phone
+# Retro-Coin-PhoneBooth
 From Coin Box to Codebase: When ₹1 Meant 1 Minute
 
 🎥 Watch the Retro Coin Phone Booth in action → [Click Here](https://srivanipaspunoor1234.github.io/Retro-Coin-Phone/)
